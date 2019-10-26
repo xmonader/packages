@@ -14955,5 +14955,20 @@
     "description": "A port of ggplot2 for Nim",
     "license": "MIT",
     "web": "https://github.com/Vindaar/ggplotnim"
+  },
+  {
+    "name": "servy",
+    "url": "https://github.com/xmonader/nim-servy",
+    "method": "git",
+    "tags": [
+      "webframework",
+      "httpserver",
+      "server",
+      "framework",
+      "web"
+    ],
+    "description": "a down to earth webframework in nim",
+    "license": "MIT",
+    "web": "https://github.com/xmonader/nim-servy"
   }
 ]
